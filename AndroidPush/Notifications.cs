@@ -13,7 +13,7 @@ namespace AndroidPush
         /// </summary>
         private Notifications()
         {
-            Hub = NotificationHubClient.CreateClientFromConnectionString("Endpoint=sb://mdenet-hub-namespace.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=XHqQQ+O2E+tXdKZk5pKzdMtqlHhpA5j52YYMQy3Hlb8=",
+            Hub = NotificationHubClient.CreateClientFromConnectionString("",
                                                                             "mdenet-notification-hub", true);
         }
     }

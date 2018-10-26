@@ -14,7 +14,7 @@ namespace AndroidPushTest
 {
     public static class Constants
     {
-        public const string ListenConnectionString = "Endpoint=sb://mdenet-hub-namespace.servicebus.windows.net/;SharedAccessKeyName=ListenSharedAccessSignature;SharedAccessKey=nCFN4xjIoEJTggZrmYm5C6t2mW2sY+Phd7ZT1zSUj7Q=";
+        public const string ListenConnectionString = "";
         public const string NotificationHubName = "mdenet-notification-hub";
     }
 }
