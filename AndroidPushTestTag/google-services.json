@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "84213285064",
+    "firebase_url": "https://notificationhubproject-5bd01.firebaseio.com",
+    "project_id": "notificationhubproject-5bd01",
+    "storage_bucket": "notificationhubproject-5bd01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84213285064:android:aa598b4b283567ef",
+        "android_client_info": {
+          "package_name": "mdenet.notificationhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84213285064-3bu6c7f6iuov5e2nj71j8kp09ldsgg8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-NgcxR17RfVnO9Y2jdzemoq-POtXrWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
